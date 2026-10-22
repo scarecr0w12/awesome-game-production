@@ -131,6 +131,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 - [VG Insights](https://vginsights.com/) - One of the better analytics tools and sources of estimated sales data. They also have some unique tools other similar services don't, e.g. revenue calculator, unit sales estimator and some others.
 - [Steam Wishlists To Sales Calculator](https://impress.games/steam-wishlists-sales-calculator) - Simple tool to help you ballpark sales numbers based on the wishlists count on Steam. It is not as accurate, as some other tools are, but is the simplest one.
 - [GameDiscoverCo Plus](https://plus.gamediscover.co/) - (requires paid subscription to <a name="gamediscoverco" href="#gamediscoverco">GameDiscoverCo Newsletter</a>) GameDiscoverCo's data backend providing analytics on games' "hype", discoverability and more. Additionally, you get access to a number of e-books on game discovery and budgeting.
+- [PlayWeld](https://playweld.com/) - Free Apache-2.0 Windows/Linux desktop workspace for game-project files, Markdown production notes and local lexical search; unsigned testing prerelease.
 
 ### Templates
 
